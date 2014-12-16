@@ -7,3 +7,6 @@ PROBLEMATIQUE : Quelles sont les technologies les plus prometteuses dans le doma
 
 
 Ici seront mit des aides à l'utilisation de github
+
+
+Quelques changements sont à faire ! ( modifications/ajouts/suppression de parties et ajout des textes rédigées )
